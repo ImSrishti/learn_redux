@@ -1,0 +1,30 @@
+{
+  "name": "learn_redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImSrishti/learn_redux.git"
+  },
+  "author": "Srishti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImSrishti/learn_redux/issues"
+  },
+  "homepage": "https://github.com/ImSrishti/learn_redux#readme",
+  "dependencies": {
+    "classnames": "2.2.6",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
