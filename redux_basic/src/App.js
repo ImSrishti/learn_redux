@@ -1,14 +1,15 @@
 import React from 'react';
-import './App.css';
+
+import Child1 from './components/child1'
+import Child2 from './components/child2'
+import Child3 from './components/child3'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Hello this is react app
-        </p>
-      </header>
+    <div>
+      <Child1/>
+      <Child2/>
+      <Child3/>
     </div>
   );
 }
